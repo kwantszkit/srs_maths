@@ -1,0 +1,8 @@
+# To login via ssh
+ssh -X z3416374@srs.maths.unsw.edu.au
+
+# run the following line to allow display?
+export QT_QPA_PLATFORM=offscreen
+
+# to get time table for the term
+ttstaff -d Kwan
